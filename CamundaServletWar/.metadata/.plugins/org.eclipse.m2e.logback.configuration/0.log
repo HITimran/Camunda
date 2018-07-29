@@ -1,0 +1,56 @@
+2018-07-29 11:50:18,499 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/repositories/camunda-bpm/org/camunda/bpm/archetype/camunda-archetype-servlet-war/7.9.2/camunda-archetype-servlet-war-7.9.2.jar
+2018-07-29 11:50:18,735 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/repositories/camunda-bpm/org/camunda/bpm/archetype/camunda-archetype-servlet-war/7.9.2/camunda-archetype-servlet-war-7.9.2.jar
+2018-07-29 11:50:43,342 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/repositories/camunda-bpm/org/camunda/bpm/archetype/camunda-archetype-servlet-war/7.9.2/camunda-archetype-servlet-war-7.9.2.pom
+2018-07-29 11:50:43,500 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/repositories/camunda-bpm/org/camunda/bpm/archetype/camunda-archetype-servlet-war/7.9.2/camunda-archetype-servlet-war-7.9.2.pom
+2018-07-29 11:50:43,752 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\camunda\Hey camunda\CamundaServletWar\exploration\pom.xml
+2018-07-29 11:50:47,389 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: my.camunda.org:exploration:0.0.1-SNAPSHOT @ D:\camunda\Hey camunda\CamundaServletWar\exploration\pom.xml.
+2018-07-29 11:50:49,361 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2018-07-29 11:50:49,506 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2018-07-29 11:50:49,844 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2018-07-29 11:50:49,980 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2018-07-29 11:50:51,349 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2018-07-29 11:50:51,668 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2018-07-29 11:50:52,217 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2018-07-29 11:50:53,486 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: my.camunda.org:exploration:0.0.1-SNAPSHOT @ D:\camunda\Hey camunda\CamundaServletWar\exploration\pom.xml.
+2018-07-29 11:50:54,412 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exploration/src/main/java
+2018-07-29 11:50:54,413 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exploration/src/main/resources
+2018-07-29 11:50:54,431 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exploration/src/test/java
+2018-07-29 11:50:54,432 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /exploration/src/test/resources
+2018-07-29 11:50:57,499 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2018-07-29 11:51:01,819 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: my.camunda.org:exploration:0.0.1-SNAPSHOT @ D:\camunda\Hey camunda\CamundaServletWar\exploration\pom.xml.
+2018-07-29 11:51:03,228 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 11:51:03,235 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-29 11:51:03,255 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 11:51:03,256 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-07-29 11:57:57,213 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 11:57:57,238 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-29 11:57:57,246 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 11:57:57,247 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:28:08,068 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\camunda\Hey camunda\CamundaServletWar\exploration
+2018-07-29 12:28:08,071 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-07-29 12:31:27,310 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:31:27,316 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-29 12:31:27,333 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:31:27,334 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:33:21,881 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:33:21,882 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:33:21,905 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:33:21,911 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-29 12:33:23,826 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:33:23,828 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-29 12:33:23,835 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:33:23,836 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:36:07,648 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:36:07,651 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-29 12:36:07,660 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:36:07,661 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:44:46,816 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\camunda\Hey camunda\CamundaServletWar\exploration
+2018-07-29 12:44:46,818 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2018-07-29 12:45:24,645 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:45:24,648 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-07-29 12:45:24,655 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:45:24,656 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:53:54,798 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:53:54,800 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-29 12:53:54,807 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-29 12:53:54,808 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
